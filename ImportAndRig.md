@@ -22,6 +22,8 @@ After you downloaded the file to rig, or you created your own mesh, it not nessa
 
 * - Cut in half, delete the left side of mesh
 
+Look at how to cut [Cut For Mirror](CutForMirror.md)
+
 ![Mirror Mesh](images/MirrorMesh.png)
 
 * - When you are editing armature Enable X-Axies Mirror, if you want to keep same changes in both side of bones.
