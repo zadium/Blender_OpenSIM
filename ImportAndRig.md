@@ -50,7 +50,7 @@ To export to OpenSIM, this fix the direction that opensim need it:
 
 ![Rig Export](images/RigExportPage01.png)
 
-## Import to OpenSIM/SL
+## Import to OpenSIM/SL [TODO]
 
 LOD Medium as Above if it Hair
 
@@ -59,5 +59,7 @@ Set other LODs (lowers) to zero
 Physic Cube, Analyse
 
 Include Joins if you want to scale the body, no need it for Hair, Clothes
+
+## References
 
 [Lod in FS](https://www.firestormviewer.org/lod-and-the-upcoming-firestorm-release-the-what-and-why/)
