@@ -8,7 +8,7 @@
 * Drag to down vertically
 * Show attributes of `Bisect` in bottom left and set all values to 0 except (Plane Normal) leave it 1, like in picture.
 
-[Cut Bisect Dress](images\Cut_Bisect_Dress.gif)
+![Cut Bisect Dress](images\Cut_Bisect_Dress.gif)
 
 ## Source
 
