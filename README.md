@@ -18,6 +18,10 @@ We Need [Easy Weights](https://studio.blender.org/pipeline/addons/easy_weights) 
 
 Install [Onigiri](https://github.com/nessaki/Onigiri) for export mesh to DAE file, it make easy to export and fix alot of things in the file, like rotate
 
+## Let get started
+
+* [Import and Rig](/ImportAndRig.md)
+
 ## Thanks to
 
 Modee Parlez
