@@ -8,7 +8,7 @@ Apply rotations and scales (all)
 
 ## Bones
 
-You can use it from the [SL Benot](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information) site or Onigiri/Bento Buddy
+You can use it from the [SL Bento](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information) site or Onigiri/Bento Buddy
 
 We provide blender file to use, it is based on original files above, try to use:
 
@@ -44,6 +44,10 @@ Look at how to cut [Cut For Mirror](CutForMirror.md)
 
 ![Delete Unused Groups](images/DeleteUnusedGroups.png)
 
+## Progress
+
+To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa Y-
+
 ## Export
 
 To export to OpenSIM, this fix the direction that opensim need it:
@@ -56,11 +60,13 @@ To export to OpenSIM, this fix the direction that opensim need it:
 
 LOD Medium as Above if it Hair
 
-Set other LODs (lowers) to zero
+Optional set other LODs (lowers) to zero to save with complex mesh
 
-Physic Cube, Analyse
+Physic Cube, Analyse if you like
 
 Include Joins if you want to scale the body, no need it for Hair, Clothes
+
+For Tiny meshes, shift down using Z Offset about -0.3
 
 ## References
 

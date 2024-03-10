@@ -4,7 +4,7 @@ First I am not expert, it is my notes for me to remember how my own instruction,
 
 Ported from [Project Bento Resources and Information](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information)
 
-With modifications like rotate face to (Z-) and apply all
+With modifications like rotate face to (Y-) and apply all
 
 * [Female](Female_SL_Bento_Fixed.blend)
 
