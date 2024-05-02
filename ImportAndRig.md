@@ -68,6 +68,10 @@ Include Joins if you want to scale the body, no need it for Hair, Clothes
 
 For Tiny meshes, shift down using Z Offset about -0.3
 
+## Animations
+
+For Export to bvh tou can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
+
 ## References
 
 [Lod in FS](https://www.firestormviewer.org/lod-and-the-upcoming-firestorm-release-the-what-and-why/)
