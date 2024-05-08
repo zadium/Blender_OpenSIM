@@ -2,13 +2,13 @@
 
 Import the mesh you want to rig, scale and move as you like
 
-Make your mesh faced to Y- , this help you to use mirror bones that need this direction, armature mirror works only in X axis
+Make your mesh faced to Y- , this help you to use mirror bones that need this direction, **armature mirror works only in X axis**
 
 Apply rotations and scales (all)
 
 ## Bones
 
-You can use it from the [SL Bento](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information) site or Onigiri/Bento Buddy
+You can use it from the [SL Bento](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information)
 
 We provide blender file to use, it is based on original files above, try to use:
 
@@ -22,7 +22,7 @@ After you downloaded the file to rig, or you created your own mesh, it not nessa
 
 * - Cut in half, delete the left side of mesh
 
-Look at how to cut [Cut For Mirror](CutForMirror.md)
+Look at how to cut mesh [Cut For Mirror](.\examples\CutForMirror\CutForMirror.md)
 
 ![Mirror Mesh](images/MirrorMesh.png)
 
@@ -44,7 +44,9 @@ Look at how to cut [Cut For Mirror](CutForMirror.md)
 
 ![Delete Unused Groups](images/DeleteUnusedGroups.png)
 
-## Progress
+## Roll
+
+Just a trick to fix, but maybe not work
 
 To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa Y-
 
@@ -70,8 +72,15 @@ For Tiny meshes, shift down using Z Offset about -0.3
 
 ## Animations
 
-For Export to bvh tou can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
+For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
 
 ## References
 
 [Lod in FS](https://www.firestormviewer.org/lod-and-the-upcoming-firestorm-release-the-what-and-why/)
+
+
+## See Also
+
+[Cut For Mirror](.\examples\CutForMirror\CutForMirror.md)
+
+[Rig and Mirror](.\examples\RigMirror\readme.md)
