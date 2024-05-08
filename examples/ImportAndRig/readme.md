@@ -6,7 +6,7 @@ Make your mesh faced to Y- , this help you to use mirror bones that need this di
 
 Apply rotations and scales (all)
 
-## Bones
+### Bones
 
 You can use it from the [SL Bento](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information)
 
@@ -16,7 +16,7 @@ We provide blender file to use, it is based on original files above, try to use:
 
 * [Male](../Female_SL_Bento_Fixed.blend)
 
-## Mirroring
+### Mirroring
 
 After you downloaded the file to rig, or you created your own mesh, it not nessary to use mirror technic, but I prefer it if it symetric
 
@@ -44,13 +44,13 @@ Look at how to cut mesh [Cut For Mirror](../examples/CutForMirror/CutForMirror.m
 
 ![Delete Unused Groups](DeleteUnusedGroups.png)
 
-## Roll
+### Roll
 
 Just a trick to fix, but maybe not work
 
 To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa Y-
 
-## Export
+### Export
 
 To export to OpenSIM, this fix the direction that opensim need it:
 
@@ -58,7 +58,7 @@ To export to OpenSIM, this fix the direction that opensim need it:
 
 ![Rig Export](RigExportPage01.png)
 
-## Import to OpenSIM/SL [TODO]
+### Import to OpenSIM/SL [TODO]
 
 LOD Medium as Above if it Hair
 
@@ -70,7 +70,7 @@ Include Joins if you want to scale the body, no need it for Hair, Clothes
 
 For Tiny meshes, shift down using Z Offset about -0.3
 
-## Animations
+### Animations
 
 For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
 
@@ -79,7 +79,7 @@ For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blen
 [Lod in FS](https://www.firestormviewer.org/lod-and-the-upcoming-firestorm-release-the-what-and-why/)
 
 
-## See Also
+### See Also
 
 [Cut For Mirror](../examples/CutForMirror/CutForMirror.md)
 
