@@ -1,4 +1,4 @@
-# Rig and Export for OpenSIM
+# Belnder Rig and Import/Export for OpenSIM Tips
 
 First I am not expert, it is my notes for me to remember how my own instruction, based on others articles and videos
 
@@ -26,12 +26,11 @@ Install [Onigiri](https://github.com/nessaki/Onigiri) for export mesh to DAE fil
 
 * [Cut For Mirror](./examples/CutForMirror)
 
-* [Cut For Mirror](./examples/RigMirror)
-
+* [Rig Mirrored Side](./examples/RigMirror)
 
 ## Thanks to
 
-Modee Parlez
+Modee Parlez (My Blender Teacher)
 
 Kayacker Magic
 
