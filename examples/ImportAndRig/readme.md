@@ -6,7 +6,7 @@ Make your mesh faced to ``Y-`` , this help you to use mirror bones that need thi
 
 Apply rotations and scales (all)
 
-## Import
+## Import Mesh
 
 ### Bones
 
@@ -22,7 +22,7 @@ We provide blender file to use, it is based on original files above, try to use:
 
 After you downloaded the file to rig, or you created your own mesh, it not nessary to use mirror technic, but I prefer it if it symetric
 
-* Cut in half, delete the left side of mesh
+* Cut in half, delete the ``Right`` side of mesh (mesh not the view) for easy to use when click NUM-PAD-3, in pictures I used to delete the ``Left`` side, I am lazy to make new pictures.
 
 Look at how to cut mesh [Cut For Mirror](../examples/CutForMirror/CutForMirror.md)
 
@@ -50,7 +50,7 @@ Look at how to cut mesh [Cut For Mirror](../examples/CutForMirror/CutForMirror.m
 
 Just a trick to fix, but maybe not work
 
-To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa Y-
+To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa ``Y-``
 
 ## Export
 
@@ -58,7 +58,7 @@ To fix Roll , click Armature-> Bone Roll-> Recalulate Roll-> Globa Y-
 
 To export to OpenSIM, this fix the direction that opensim need it:
 
-* Use X- as direction, Use Z as top
+* Use Forward = ``X-`` as direction, Up = ``Z``
 
 ![Rig Export](RigExportPage01.png)
 
@@ -72,11 +72,13 @@ Physic Cube, Analyse if you like
 
 Include Joins if you want to scale the body, no need it for Hair, Clothes
 
-For Tiny meshes, shift down using Z Offset about -0.3
+For Tiny meshes, shift down using ``Z`` Offset about ``-0.3``
 
 ### Export Animations
 
-For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
+For Export to bvh you can try [bvh_enhanced](https://github.com/zaher/blender_bvh_addon_enhanced) (no not mine, I forked it)
+
+Export it using Forward = ``Z-``, Up =``Y``
 
 ## References
 
