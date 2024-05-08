@@ -12,9 +12,9 @@ You can use it from the [SL Bento](https://wiki.secondlife.com/wiki/Project_Bent
 
 We provide blender file to use, it is based on original files above, try to use:
 
-* [Female](Female_SL_Bento_Fixed.blend)
+* [Female](../Female_SL_Bento_Fixed.blend)
 
-* [Male](Female_SL_Bento_Fixed.blend)
+* [Male](../Female_SL_Bento_Fixed.blend)
 
 ## Mirroring
 
@@ -22,27 +22,27 @@ After you downloaded the file to rig, or you created your own mesh, it not nessa
 
 * - Cut in half, delete the left side of mesh
 
-Look at how to cut mesh [Cut For Mirror](.\examples\CutForMirror\CutForMirror.md)
+Look at how to cut mesh [Cut For Mirror](../examples/CutForMirror/CutForMirror.md)
 
-![Mirror Mesh](images/MirrorMesh.png)
+![Mirror Mesh](MirrorMesh.png)
 
 * - When you are editing armature Enable X-Axies Mirror, if you want to keep same changes in both side of bones.
 
-![Using Mirror On Armature](images/UsingMirrorOnX.png)
+![Using Mirror On Armature](UsingMirrorOnX.png)
 
 * - Add/Move Mirror modifier before Armature modifier using X axis
 
-![Mirror Before Armature](images/MirrorBeforeArmature.png)
+![Mirror Before Armature](MirrorBeforeArmature.png)
 
 * It is really important if you mirrored your mesh, maybe you need to use full texture, included the oppsite side too, check "Mirror U" in "Mirror Modifire" -> "Data"
 
-![Mirror With Texture Full](images/MirrorWithTextureFull.png)
+![Mirror With Texture Full](MirrorWithTextureFull.png)
 
 * - Check used groups vertices names of left side exists even if empty, both Left and Right groups must exists.
 
 * - Remove/Delete empty vertices groups that unused, I used addon [Easy Weights](https://studio.blender.org/pipeline/addons/easy_weights) it have menu to delete all unused groups.
 
-![Delete Unused Groups](images/DeleteUnusedGroups.png)
+![Delete Unused Groups](DeleteUnusedGroups.png)
 
 ## Roll
 
@@ -56,7 +56,7 @@ To export to OpenSIM, this fix the direction that opensim need it:
 
 * - Use -X as direction, Use Z as top
 
-![Rig Export](images/RigExportPage01.png)
+![Rig Export](RigExportPage01.png)
 
 ## Import to OpenSIM/SL [TODO]
 
@@ -81,6 +81,6 @@ For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blen
 
 ## See Also
 
-[Cut For Mirror](.\examples\CutForMirror\CutForMirror.md)
+[Cut For Mirror](../examples/CutForMirror/CutForMirror.md)
 
-[Rig and Mirror](.\examples\RigMirror\readme.md)
+[Rig and Mirror](../examples/RigMirror/readme.md)
