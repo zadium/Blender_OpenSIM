@@ -1,4 +1,4 @@
-## How to rig mesh with mirror ##
+## How to rig Left mirror side ##
 
 
 ## See Also

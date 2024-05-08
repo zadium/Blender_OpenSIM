@@ -22,9 +22,12 @@ Install [Onigiri](https://github.com/nessaki/Onigiri) for export mesh to DAE fil
 
 ## Let get started
 
-* [Import and Rig](/ImportAndRig.md)
+* [Import and Rig](./examples/ImportAndRig)
 
-* [Cut For Mirror](CutForMirror.md)
+* [Cut For Mirror](./examples/CutForMirror)
+
+* [Cut For Mirror](./examples/RigMirror)
+
 
 ## Thanks to
 
