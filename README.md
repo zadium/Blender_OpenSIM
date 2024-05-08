@@ -1,14 +1,14 @@
 # Belnder Rig and Import/Export for OpenSIM Tips
 
-First I am not expert, it is my notes for me to remember how my own instruction, based on others articles and videos
+First I am not expert, it is my notes for me to remember how my own instructions, based on others articles and videos.
 
 Ported from [Project Bento Resources and Information](https://wiki.secondlife.com/wiki/Project_Bento_Resources_and_Information)
 
 With modifications like rotate face to (Y-) and apply all
 
-* [Female](Female_SL_Bento_Fixed.blend)
+* [Bento Female Armature](Female_SL_Bento_Fixed.blend)
 
-* [Male](Female_SL_Bento_Fixed.blend)
+* [Bento Male Armature](Female_SL_Bento_Fixed.blend)
 
 ## Requires
 
@@ -20,7 +20,7 @@ We Need [Easy Weights](https://studio.blender.org/pipeline/addons/easy_weights) 
 
 Install [Onigiri](https://github.com/nessaki/Onigiri) for export mesh to DAE file, it make easy to export and fix alot of things in the file, like rotate
 
-## Let get started
+## Notices & Tips
 
 * [Import and Rig](./examples/ImportAndRig)
 
