@@ -12,7 +12,9 @@ With modifications like rotate face to (Y-) and apply all
 
 ## Requires
 
-Not really requires we will try to not use addons
+Not really requires, we will try to not use addons
+
+For Export to bvh you can try [bvh_enhanced](https://github.com/walkoncross/blender_bvh_addon_enhanced)
 
 We Need [Easy Weights](https://studio.blender.org/pipeline/addons/easy_weights) To remove unused groups
 
@@ -21,6 +23,7 @@ Install [Onigiri](https://github.com/nessaki/Onigiri) for export mesh to DAE fil
 ## Let get started
 
 * [Import and Rig](/ImportAndRig.md)
+
 * [Cut For Mirror](CutForMirror.md)
 
 ## Thanks to
@@ -32,5 +35,3 @@ Kayacker Magic
 Ada Radius
 
 Aaack
-
-Prince Amor
